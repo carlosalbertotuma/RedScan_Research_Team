@@ -17,7 +17,7 @@ CVE-[ano]-[número]: [Título da Vulnerabilidade]
 [Recomendações de mitigação ou patches disponíveis]
 
 ## Credits
-**Research Team:** RedScan Research Team  
+** RedScan Research Team**   
 **Lead Researcher:** Carlos Tuma  
 
 **Contributors:**  
