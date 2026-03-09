@@ -29,7 +29,7 @@ CVE-[ano]-[número]: [Título da Vulnerabilidade]
 
 ----
 
-# Guia Básico de Markdown para GitHub
+# Guia Básico de Markdown
 
 Markdown é uma linguagem de marcação simples usada para formatar textos no **GitHub**, documentação, README de projetos, wikis e muito mais.
 
@@ -69,7 +69,9 @@ Resultado:
 Resultado:
 
 **Negrito**
+
 *Itálico*
+
 ***Negrito e Itálico***
 
 ---
